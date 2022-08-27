@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tam-114
 - 👀 I’m interested in manga/anime, reading, tennis, writing, & closed captioning
-- 🌱 I’m currently learning how to create subtitles/CC, web design techniques, Javascript, React and Node.js
+- 🌱 I’m experienced in web design techniques, HTML5, CSS3, Javascript, PHP, MySQL, React and React Native
 - 💞️ I’m looking to collaborate on wherever my skillset will be needed!
 - 📫 How to reach me is through my Contact Page on my portfolio: https://taystan.dev/#contact (:
 
