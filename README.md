@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tam-114
-- 👀 I’m interested in manga/anime, reading, tennis, writing, & closed captioning
-- 🌱 I’m experienced in web design techniques, HTML5, CSS3, Javascript, PHP, MySQL
+- 👀 I’m interested in manga/anime, reading, blogging, tennis & rollerskating
+- 🌱 I’m experienced in HTML5, CSS3, Javascript, PHP, MySQL
 - 💞️ I’m looking to collaborate on wherever my skillset will be needed!
 - 📫 How to reach me is through my Contact Page: https://taystan.design/contact (:
 
